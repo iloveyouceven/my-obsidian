@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "59c57b375e419140",
+    "type": "split",
+    "children": [
+      {
+        "id": "574d9d6757c5bfe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb79c11b5f230b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数值分析笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数值分析笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc8d06295d7cb317",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff95c4826711426d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff4c95cf82b22a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8a8ce161aee71f9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#16-17试卷",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "290f4951570e8b52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c817ac94760a561c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52f98764ffb438a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817e0c1736ab1164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数值分析笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数值分析笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "fdb37d1e37f809bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数值分析笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数值分析笔记 的出链列表"
+            }
+          },
+          {
+            "id": "b070ed41843717f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3e87a757f388179d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "739e1557cbefa25d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数值分析笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数值分析笔记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8cb79c11b5f230b6",
+  "lastOpenFiles": [
+    "assets/数值分析笔记",
+    "assets/数值分析笔记/file-20260613110614299.png",
+    "assets/数学",
+    "assets",
+    "数值分析笔记.md"
+  ]
+}
